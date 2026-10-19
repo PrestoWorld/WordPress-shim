@@ -1,0 +1,15 @@
+{
+    "name": "prestoworld/wordpress-shim",
+    "autoload": {
+        "psr-4": {
+            "Prestoworld\\WordpressShim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
